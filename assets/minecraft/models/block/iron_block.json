@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "../mcpatcher/ctm/iron_block/0"
+        "all": "../mcpatcher/ctm/valuables/iron_block/0"
     }
 }
